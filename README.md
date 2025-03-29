@@ -1,6 +1,6 @@
 # cv_Floor-plan-division
 
-数据集来源：https://github.com/CubiCasa/CubiCasa5k
+数据集以及深度学习模型来源：https://github.com/CubiCasa/CubiCasa5k
 
 pre_solve.py：将数据集中的model.svg转换成png
 
